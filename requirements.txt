@@ -4,11 +4,9 @@ djangorestframework-simplejwt==5.4.0
 drf-spectacular==0.28.0
 django-cors-headers==4.7.0
 django-environ==0.12.0
+dj-database-url==2.3.0
 psycopg[binary]==3.3.4
 django-filter==24.3
 rapidfuzz==3.14.3
-pytest==8.3.5
-pytest-django==4.10.0
-coverage==7.6.12
 gunicorn==23.0.0
 whitenoise==6.9.0
